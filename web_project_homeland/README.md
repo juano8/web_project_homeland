@@ -19,4 +19,4 @@ web_project_homeland/
 
 ## 🚀 Cómo ver el proyecto
 
-Puedes ver el proyecto en vivo aquí:
+Puedes ver el proyecto en vivo aquí: https://juano8.github.io/web_project_homeland/
