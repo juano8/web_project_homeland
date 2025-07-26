@@ -1,0 +1,25 @@
+# Indica que este es el archivo raíz
+root = true
+
+# Reglas para todos los archivos
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Reglas para archivos HTML
+[*.html]
+indent_size = 2
+max_line_length = 120
+
+# Reglas para archivos CSS
+[*.css]
+indent_size = 2
+
+# Reglas para archivos Markdown (como README.md)
+[*.md]
+trim_trailing_whitespace = false
+insert_final_newline = true
